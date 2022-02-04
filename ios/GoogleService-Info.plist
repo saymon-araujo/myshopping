@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1089082159990-ma3o919vbvuv9pufllcpladp9es4n8je.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1089082159990-ma3o919vbvuv9pufllcpladp9es4n8je</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1089082159990-2ioee8l346lkl1q64m8m3dm1aqm17vje.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB5L0zMW96XXL67pxdy4X1SVzv0IbMPLls</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1089082159990</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.name.myshoppingDowka</string>
+	<key>PROJECT_ID</key>
+	<string>myshopping-95c7c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myshopping-95c7c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1089082159990:ios:05c304f79b8e218e750057</string>
+</dict>
+</plist>
